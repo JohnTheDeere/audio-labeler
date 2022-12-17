@@ -31,7 +31,7 @@ pip install -r requirements.txt
 6. Press `Export` to export the labels. The labels are exported to a file `segmentations.xlsx` in the working directory
 
 ## Select audio with right click-drag-release
-<img width="1645" alt="Screenshot 2022-12-17 at 13 00 57" src="https://user-images.githubusercontent.com/19154758/208238494-a87d2236-4fd9-4097-879b-84f9621ecbe7.png">
+![Screenshot 2022-12-17 at 12 56 26](https://user-images.githubusercontent.com/19154758/208243244-1287b6b7-6154-4816-ae6b-9af6e0139fd1.png)
 
 ## Label audio with left click-drag-release
 <img width="1673" alt="Screenshot 2022-12-17 at 12 59 08" src="https://user-images.githubusercontent.com/19154758/208238448-d167e550-0574-4110-bf9e-e9446b5bc00d.png">
